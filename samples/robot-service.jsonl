@@ -1,0 +1,5 @@
+{"timestamp":"2026-11-01T10:00:00Z","service":"telemetry-ingest","level":"INFO","message":"Batch accepted"}
+{"timestamp":"2026-11-01T10:00:05Z","service":"telemetry-ingest","level":"INFO","message":"Batch stored"}
+{"timestamp":"2026-11-01T10:00:07Z","service":"robot-sync","level":"ERROR","message":"Connection timed out"}
+{"timestamp":"2026-11-01T10:00:09Z","service":"robot-sync","level":"WARNING","message":"Retry scheduled"}
+{"timestamp":"2026-11-01T10:00:12Z","service":"robot-sync","level":"CRITICAL","message":"Retry budget exhausted"}
